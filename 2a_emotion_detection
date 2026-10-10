@@ -1,5 +1,4 @@
 import requests
-import json
 
 def emotion_detector(text_to_analyze):
     # Define the URL for the sentiment analysis API
